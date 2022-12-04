@@ -1,0 +1,30 @@
+.header-wrapper {
+  background-color: #282c34;
+  display: flex;
+  /* text-align: center; */
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.header-title {
+  color: aliceblue;
+  margin-top: 15px;
+  /* text-align: center; */
+}
+
+.navigation {
+  display: flex;
+  margin-left: auto;
+}
+
+.navigation > button {
+  margin: 20px 100px 0 0;
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+}
